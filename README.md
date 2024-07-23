@@ -29,6 +29,6 @@ Notes:
 Each whale ID has approximately 7-12 instances.
 There are 50 whale IDs in the train set and 17 whale IDs in the val set.
 Whales in the val set are different from those in the train set.
-### Additional Bonus (Completed)
+## Additional Bonus (Completed)
 Applied image segmentation on the whale class to separate the whale tail from the background.
 Measured the length of the whale tail using image processing algorithms.
