@@ -1,13 +1,13 @@
 # Computer_Vision_Project
-## Project Overview 
+## Project Descrebtion:  
 This project aims to leverage deep learning techniques for the classification, detection, and recognition of various marine animals. By utilizing state-of-the-art AI models, this project contributes to efforts in fishing, endangered animal protection, tracking, and analysis.
 
-### Project Objectives:
+### Project goals:
 Image Classification: Identify the marine animal in a given image.
 Object Detection: Localize different instances of the same species within a single image.
 Few-Shot Learning (Siamese Network): Recognize specific instances of a certain sea animal, focusing on whales.
 
-### Dataset Description
+### Dataset Description: 
 The project dataset can be found also in this Repository.
 
 The dataset consists of five main classes: fish, jelly, shark, tuna, and whale. It is organized into three main folders corresponding to the three tasks: classification, detection, and few-shot learning.
@@ -38,3 +38,8 @@ Notes:
 Each whale ID has approximately 7-12 instances.
 There are 50 whale IDs in the train set and 17 whale IDs in the val set.
 Whales in the val set are different from those in the train set.
+
+
+### Additional Bonus (Done)
+Apply image segmentation on the whale class to separate the whale tail from the background.
+Measure the length of the whale tail using image processing algorithms.
